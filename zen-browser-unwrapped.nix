@@ -31,6 +31,7 @@ stdenv.mkDerivation (finalAttrs: {
   inherit version;
   pname = "zen-browser-unwrapped";
   applicationName = "Zen Browser";
+  icon = "zen-twilight";
 
   src = fetchurl {
     inherit url hash;
