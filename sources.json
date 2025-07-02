@@ -1,11 +1,11 @@
 {
-  "version": "20250701",
+  "version": "20250702",
   "x86_64-linux": {
     "url": "https://github.com/zen-browser/desktop/releases/download/twilight/zen.linux-x86_64.tar.xz",
-    "hash": "sha256-xLFQ0Vm47bvSmnkRuf5ykN3S6wYKTW3/k1IJcisSsRk="
+    "hash": "sha256-NZb+M5/vCPDxMJLplvVuSrihTIvXHxio7K4GNjqK2co="
   },
   "aarch64-linux": {
     "url": "https://github.com/zen-browser/desktop/releases/download/twilight/zen.linux-aarch64.tar.xz",
-    "hash": "sha256-lSUDcFrEILUs8J9Z1sHz7BjuChqwALKdRwPBjdpsWgg="
+    "hash": "sha256-5qIQoIxHVqplq6T08eWv8chMAtxHVSSFv6mDJBUdF/U="
   }
 }
